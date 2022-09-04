@@ -1,7 +1,7 @@
 # kickstarter-analysis
 
 ## Overview of Project
-Performing analysis on Kickstarter data to uncover trends for the use of a crowdfunding campaign.
+Performing analysis on Kickstarter data to uncover trends for the use of a crowdfunding campaign for a theatre preformance.
 
 ### Purpose
 Helping an up-and-coming playwright, Louise, who would like to start a crowdfunding campaign to help fund her play, *Fever*. She's estimating a budget of over $10,000 and has been hesitant about jumping into her first fundraising campaign. Excel has been used to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a project's campaign successful.
