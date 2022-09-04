@@ -8,8 +8,6 @@ Helping an up-and-coming playwright, Louise, who would like to start a crowdfund
 
 ## Analysis and Challanges 
 
-The data was 
-
 ### Analysis of Outcomes Based on Launch Date
 
 The data was first formatted to be easier to use and find note-worthy analysis for theatre Kickstarters. The data was then further concentrated on plays subcategory. This was done by creating several pivot tables. The data was filtered into parent categories. Subcategory filters was placed in the table. The projects were filtered by location, outcomes, successful, failed, live, and cancelled. This allowing to see when Louise could run her project and for how long to best encounter successful results.
