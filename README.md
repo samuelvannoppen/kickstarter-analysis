@@ -1,4 +1,4 @@
-# Kickstarter-Analysis
+# kickstarter-analysis
 
 ## Overview of Project
 Performing analysis on Kickstarter data to uncover trends for the use of a crowdfunding campaign.
